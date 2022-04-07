@@ -8,14 +8,14 @@ public class SalaryPercentage2 {
         double secondPercentage = 15;
         double thirdPercentage = 5;
 
-        double resultepercentage = salary * firstPercentage / 100;
-        System.out.println("30% = " + resultepercentage);
+        double resultePercentage = salary * firstPercentage / 100;
+        System.out.println("30% = " + resultePercentage);
 
-        resultepercentage = salary * secondPercentage /100;
-        System.out.println("15% = " + resultepercentage);
+        resultePercentage = salary * secondPercentage /100;
+        System.out.println("15% = " + resultePercentage);
 
-        resultepercentage = salary * thirdPercentage /100;
-        System.out.println("5% = " + resultepercentage);
+        resultePercentage = salary * thirdPercentage /100;
+        System.out.println("5% = " + resultePercentage);
 
     }
 }
